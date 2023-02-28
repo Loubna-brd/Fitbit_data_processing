@@ -3,4 +3,4 @@ This repository presents a methodology to extract participants' wear time using 
 
 The data used can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
-This code is used in: REF
+This code is used in: [reference](https://preprints.jmir.org/preprint/46149)
